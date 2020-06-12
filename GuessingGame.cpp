@@ -1,7 +1,7 @@
 // THE PROBLEM
 // ***************************
 // This is a simple game project created by following along with the Unreal C++ Game Development Udemy Course
-// https://www.udemy.com/course/unrealcourse/learn/lecture/15364574#questions
+// https://www.udemy.com/course/unrealcourse/learn
 // The game requires you to guess 3 numbers, given the sum and product of the 3 numbers.
 // Difficulty scales up as more variation in the randomization of the numbers is introduced.
 // Date: June 12th, 2020
